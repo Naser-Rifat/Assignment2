@@ -1,0 +1,22 @@
+package javaapplication17;
+
+import java.util.Scanner;
+
+
+public class JavaApplication17 {
+
+    
+    public static void main(String[] args) {
+        String infix;
+        
+        Scanner sc=new Scanner(System.in);
+        String[] oparetor={"+","-","*","/","="};
+        String[]  charecter={"A","B","C","D"};
+        System.out.println("Write a infix");
+        infix=sc.nextLine();
+        
+        
+       
+    }
+    
+}
